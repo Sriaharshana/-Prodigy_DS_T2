@@ -1,6 +1,7 @@
 # Prodigy_DS_02
 **Titanic Dataset Analysis**
-📌 Project Description
+
+📌 **Project Description**
 This project involves analyzing the Titanic dataset to perform data cleaning, exploratory data analysis (EDA), and examine relationships between key variables.
 
 The objective is to uncover insights and patterns from the data, such as how survival rates are influenced by factors like age, gender, passenger class, and embarkation port. Through visualizations and statistical summaries, the analysis highlights important trends and correlations within the dataset.
