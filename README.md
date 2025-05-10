@@ -1,4 +1,4 @@
-# -Prodigy_DS_T2
+# Prodigy_DS_02
 **Titanic Dataset Analysis**
 📌 Project Description
 This project involves analyzing the Titanic dataset to perform data cleaning, exploratory data analysis (EDA), and examine relationships between key variables.
